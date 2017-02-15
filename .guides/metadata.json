@@ -1,0 +1,194 @@
+{
+ "sections": [
+  {
+   "id": "0dbe90eb-d5db-9ebf-6b36-dda9b7dffa73",
+   "title": "Lesson One: Introduction to Languages",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-One--Introduction-to-Languages-0dbe.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "558cf815-39a9-a6e8-88ec-9367c7c8f5e5",
+   "title": "Lesson Two: Machine Languages ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Two--Machine-Languages--558c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cb9025d1-28fa-a0bb-7723-f8f61eac3ab8",
+   "title": "Lesson Three: Assembly Languages",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Three--Assembly-Languages-cb90.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bb570476-b2a8-ecc1-4e1c-6e035927bf25",
+   "title": "Translators and Assemblers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Translators-and-Assemblers-bb57.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bad67882-3024-6b48-c6c6-d6d56a75a814",
+   "title": "Examples of Assembly Language",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-Assembly-Language-bad6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "de979cda-3193-ab26-8e54-077594bb19e3",
+   "title": "Hello World Program",
+   "files": [
+    {
+     "path": "Hello-World.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hello-World-Program-de97.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "76cd2a4e-6efb-fa1e-c388-de1074bddd2d",
+   "title": "Lesson Four: High Level Languages",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Hello-World.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Four--High-Level-Languages-76cd.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ad52d418-0be2-90a8-ae28-04545c6d5d66",
+   "title": "Compilers",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Compilers-ad52.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6b9c6c4c-0991-b6ee-2191-fbfdc73569a5",
+   "title": "Interpreters",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Interpreters-6b9c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ad196f8b-0ba3-8418-76b6-1f047c9b1386",
+   "title": "Lesson Five: Compiled vs. Interpreted",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Five--Compiled-vs--Interpreted-ad19.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "717c4a09-9865-f319-91a2-dfd46d6c74c6",
+   "title": "Real World Analogy",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-World-Analogy-717c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0056149d-531e-8f5b-8a6e-228a9572f10d",
+   "title": "Challenge (20 points)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--20-points--0056.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}

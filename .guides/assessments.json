@@ -1,0 +1,227 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-305397026",
+  "source": {
+   "name": "ChallengeQ1",
+   "showName": true,
+   "instructions": "Which of the following languages is machine independent?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "eaada8a0-ce9d-e360-f3d2-0b74a0ba25f8",
+     "correct": true,
+     "answer": "High-level Language"
+    },
+    {
+     "_id": "1009e5b5-5959-8d44-5e8e-9bc023396a13",
+     "correct": false,
+     "answer": "Machine Language"
+    },
+    {
+     "_id": "f176807a-fd38-1195-1108-54596a64db3c",
+     "correct": false,
+     "answer": "Assembly Language"
+    },
+    {
+     "_id": "dea15d6e-9447-7ab8-9999-b8780f5ab6fc",
+     "correct": false,
+     "answer": "Low-level Language"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2596984494",
+  "source": {
+   "name": "Challenge Q2",
+   "showName": true,
+   "instructions": "What is the only language that a compiler understands directly without any translation?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "bf2994a3-7243-c64a-623d-46df19677942",
+     "correct": true,
+     "answer": "machine language, different for every type of CPU"
+    },
+    {
+     "_id": "bc855a6b-544c-4006-970c-a27cdd515a3b",
+     "correct": false,
+     "answer": "English, as spoken in Boston, Mass"
+    },
+    {
+     "_id": "60b0d483-6494-2c4f-d854-934765baefd8",
+     "correct": false,
+     "answer": "BASIC, the Beginners' All-purpose Symbolic Instruction Code"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2381299550",
+  "source": {
+   "name": "Challenge Q3",
+   "showName": true,
+   "instructions": "From the point of view of the programmer, what are major advantages of using a high-level language rather than internal machine code or assembler language? ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d7428949-3c8f-1c26-d384-f6ac8d6ddb9a",
+     "correct": true,
+     "answer": "Easy development"
+    },
+    {
+     "_id": "31503489-68c3-7d8a-12aa-5b05ee11dced",
+     "correct": false,
+     "answer": "Program portability"
+    },
+    {
+     "_id": "bc2e842f-ae6f-002a-bcd5-36c471339500",
+     "correct": false,
+     "answer": "Efficiency"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2606634903",
+  "source": {
+   "name": "Challenge Q4",
+   "showName": true,
+   "instructions": "What are the three main types of computer programming languages?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ac4ab940-0abe-6c23-9141-09934b0906e6",
+     "correct": false,
+     "answer": "imperative language, functional language, declarative language"
+    },
+    {
+     "_id": "eb6a8dc5-9ed4-d7ae-e201-c17d6c978996",
+     "correct": true,
+     "answer": "machine language, assembly language, high-level language"
+    },
+    {
+     "_id": "16a37fe3-1ea1-0cbc-2e75-6c63d9a1d32c",
+     "correct": false,
+     "answer": "COBOL, Fortran, C++"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1069687886",
+  "source": {
+   "name": "Challenge Q5",
+   "showName": true,
+   "instructions": "**Select the correct answer for each “blank” from the available drop-down list.**\n",
+   "points": "5",
+   "showValues": true,
+   "text": "An <<<assembler>>> translates <<<assembly language>>> instructions into <<<machine code>>>. Compilers and <<<interpreters>>> carry out the translation for <<<high level>>> languages. ",
+   "tokens": {
+    "blank": [
+     "assembler",
+     "assembly language",
+     "machine code",
+     "interpreters",
+     "high level"
+    ],
+    "text": [
+     "An ",
+     0,
+     " translates ",
+     0,
+     " instructions into ",
+     0,
+     ". Compilers and ",
+     0,
+     " carry out the translation for ",
+     0,
+     " languages. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2757722338",
+  "source": {
+   "name": "Challenge Q6",
+   "showName": true,
+   "instructions": "**Select the correct answer for each “blank” from the available drop-down list.**",
+   "points": "5",
+   "showValues": true,
+   "text": "<<<High level>>> languages are more similar to human languages and contain data <<<structures>>> and <<<constructs>>>. Most software is written using these languages as they have a faster <<<development>>> time and they are <<<portable>>> between different types of CPU. ",
+   "tokens": {
+    "blank": [
+     "High level",
+     "structures",
+     "constructs",
+     "development",
+     "portable"
+    ],
+    "text": [
+     0,
+     " languages are more similar to human languages and contain data ",
+     0,
+     " and ",
+     0,
+     ". Most software is written using these languages as they have a faster ",
+     0,
+     " time and they are ",
+     0,
+     " between different types of CPU. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-62771080",
+  "source": {
+   "name": "Challenge Q7",
+   "showName": true,
+   "instructions": "**Select the correct answer for each “blank” from the available drop-down list.**",
+   "points": "6",
+   "showValues": true,
+   "text": "The only language that a computer can understand is <<<machine code>>> .  The instructions consist of <<<strings>>> of 1's and 0's. To assist programmers, <<<assembly language>>> uses <<<mnemonics>>> to represent the <<<binary>>> instructions. These two languages, machine and assembly, are called <<<low-level>>> languages. ",
+   "tokens": {
+    "blank": [
+     "machine code",
+     "strings",
+     "assembly language",
+     "mnemonics",
+     "binary",
+     "low-level"
+    ],
+    "text": [
+     "The only language that a computer can understand is ",
+     0,
+     " .  The instructions consist of ",
+     0,
+     " of 1's and 0's. To assist programmers, ",
+     0,
+     " uses ",
+     0,
+     " to represent the ",
+     0,
+     " instructions. These two languages, machine and assembly, are called ",
+     0,
+     " languages. "
+    ]
+   }
+  }
+ }
+]

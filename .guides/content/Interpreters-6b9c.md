@@ -1,0 +1,3 @@
+The language translator program that translates the source code into machine code statement by statement is called **interpreter**. It translates one statement of source program into machine code and executes it immediately before translating the next statement.
+
+If there is an error in the statement, the interpreter terminates its translating process at that statement. It also displays an error message.
